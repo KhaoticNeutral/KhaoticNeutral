@@ -1,7 +1,7 @@
 ### Hey, I'm Akira
 
-Full stack developer in training, sharing my progress and devlopment <br/>
-Currently studing at [Code Collage](https://codecollege.co.za/) based in South Africa <br/>
+Full stack developer in training, sharing my progress <br/>
+Currently studying at [Code Collage](https://codecollege.co.za/) based in South Africa <br/>
 In my spare time I like to make little games<br/>
 
 <!-- Github stats from https://github.com/anuraghazra/github-readme-stats -->
